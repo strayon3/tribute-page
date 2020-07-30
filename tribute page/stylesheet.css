@@ -1,0 +1,31 @@
+.image{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    max-width: 50%;
+    height: auto;
+}
+/*centers the main image */
+h1{
+    font-size: 120px;
+    text-align: center;
+}
+/*aligns the title of the page*/
+h2{
+    text-align: center;
+    font-size: 45px;
+}
+/*aligns the header description*/
+p{
+    font-size: 20px;
+    text-align: center;
+}
+/*centers the intro*/
+b{
+    font-size: 20px;
+/*canges the font size of the dates*/
+}
+li{
+    font-size: 18px;
+}
+/*changes the font one the list items */
